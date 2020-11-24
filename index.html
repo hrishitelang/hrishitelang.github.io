@@ -8,8 +8,10 @@
     <title>Hrishikesh Telang</title>
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
-    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
-    <!-- <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet"> -->
+    <!-- <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet"> -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Playfair+Display&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200;300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="libs/font-awesome/css/font-awesome.min.css">
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -18,7 +20,7 @@
 
 <body>
     <div id="mobile-menu-open" class="shadow-large">
-        <i class="fa fa-bars" aria-hidden="true"></i>
+      <i class="fa fa-bars" aria-hidden="true"></i>
     </div>
     <!-- End #mobile-menu-toggle -->
     <header>
@@ -50,10 +52,10 @@
 
     <div id="lead">
         <div id="lead-content">
-            <div id="profilepicture"><img src="images/profile-picture.jpeg"></img></div>
+            <div id="profilepicture"><img id="mainpic" src="images/profile-picture.jpeg"></img></div>
             <div class="before-name">Hello, I'm</div>
-            <h1>Hrishikesh Telang.</h1>
-            <h2>An aspiring Data Analyst, Data Scientist and Full Stack Developer.</h2>
+            <h1 id="head-font">Hrishikesh Telang.</h1>
+            <h2 id="head-font">An aspiring Data Analyst, Data Scientist and Full Stack Developer.</h2>
             <a href="resume.pdf" class="btn-rounded-white">Download Resume</a>
         </div>
         <!-- End #lead-content -->
@@ -171,9 +173,10 @@
                     </div>
                     <!-- End .project-image -->
                     <div class="project-info">
-                        <h3>Effective Performance of Bins Approach for Classification of Malaria Parasite using Machine Learning</h3>
+                        <h3>Traffic Sign Classification Using Le-Net Network in Keras</h3>
                         <p>
-                            I published this research paper 2020 for the 5th IEEE International Conference on Computing, Communication and Automation (ICCCA 2020) on 30th October 2020.
+                            In this case study, the goal is to train a Deep Network in order to classify images of traffic signs. The dataset contained 43 different classes of images.
+                            For this, I had to perform Image Exploration, Preparation (shuffling of training and testing images) and Transformation (conversion to Grayscale and Normalized Images), which was then passed through Le-Net Convolutional Networks for image classification.
                         </p>
                         <a href="https://ieeexplore.ieee.org/document/9250789">View Project</a>
                     </div>
@@ -188,7 +191,7 @@
                   <div class="project-info">
                       <h3>To Detect Spam Emails Using Naive Bayes</h3>
                       <p>
-                          The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged according to being ham (legitimate) or spam. The files contain one message per line. Each line is composed of two columns: v1 contains the label (ham or spam) and v2 contains the raw text. In this project, I use NLP to clean data (Punctuation Removal, Stopword Removal) and using Count Vectorizer to perform sentiment analysis whether the email message is spam or not using Naive Bayes Classifier. For extra processing, I also use TF-IDF to reflect how important a word is to the email in a collection or corpus of emails.
+                          In this project, I used NLP to clean data (Punctuation Removal, Stopword Removal) and using Count Vectorizer to perform sentiment analysis whether the email message is spam or not using Naive Bayes Classifier. For extra processing, I also use TF-IDF to reflect how important a word is to the email in a collection or corpus of emails.
                       </p>
                       <a href="https://github.com/hrishitelang/Spam-Classifier-using-Naive-Bayes">View Project</a>
                   </div>
@@ -238,9 +241,20 @@
         </div>
     </div>
     <!-- End #projects -->
+    <div id="publications" class="background">
+      <h2 class="heading">Publications</h2>
+      <div class="optional-section-block">
+          <h3>Effective Performance of Bins Approach for Classification of Malaria Parasite using Machine Learning</h3>
+          <p>I published this research paper 2020 for the 5th IEEE International Conference on Computing, Communication and Automation (ICCCA 2020) on 30th October 2020.</p>
+          <a href="https://ieeexplore.ieee.org/document/9250789">View Publication</a>
+      </div>
+    </div>
+    <!-- End .optional-section-block -->
 
-    <div id="skills">
-        <h2 class="heading">Skills</h2>
+</div>
+<!-- End .optional-section -->
+    <div id="skills" class="background-alt">
+        <h2 class="heading">Technical Skills</h2>
         <ul>
             <li>C</li>
             <li>C++</li>
@@ -250,15 +264,28 @@
             <li>Microsoft Office</li>
             <li>Data Science</li>
             <li>Machine Learning</li>
+            <li>Natural Language Processing</li>
+            <li>Deep Learning (TensorFlow)</li>
+            <li>Google Analytics</li>
             <li>HTML5</li>
             <li>CSS</li>
             <li>BootStrap</li>
             <li>Node.js</li>
             <li>PHP</li>
-            <li>Leadership</li>
-            <li>Decision Making</li>
-            <li>Project Management</li>
-            <li>Communication</li>
+            <li>Java</li>
+            <li>Android Studio</li>
+        </ul>
+        <h2 class="softskills-heading">Soft Skills</h2>
+        <ul>
+          <li>Leadership</li>
+          <li>Communication</li>
+          <li>Research</li>
+          <li>Analytical Thinking</li>
+          <li>Team Management</li>
+          <li>Decision Making</li>
+          <li>Project Scheduling</li>
+          <li>Project Management</li>
+          <li>Strategic Planning</li>
         </ul>
     </div>
     <!-- End #skills -->
