@@ -20,6 +20,10 @@ p{
   line-height: 200%;
 }
 
+#about2{
+  text-align: center;
+}
+
 .justify{
   text-align: justify;
 }
@@ -419,6 +423,17 @@ img {
   }
 }
 
+.logo{
+  color: rgb(92, 103, 220);
+  display: block;
+  vertical-align: top;
+  margin: 5px;
+}
+
+i:hover{
+  color: lighten(rgb(92, 103, 220), 10%);
+}
+
 #about {
   padding: 75px 15px;
   border-bottom: 1px solid #dcd9d9
@@ -667,7 +682,8 @@ img {
   display: block;
   margin: 0 auto;
   padding: 0;
-  max-width: 800px
+  max-width: 800px;
+  margin-bottom: 50px;
 }
 
 #skills li {
@@ -802,7 +818,7 @@ img {
   display: inline-block;
   font-size: 2em;
   font-weight: 700;
-  margin: 50px 0;
+  margin: 0;
 }
 
 @media only screen and (max-width: 750px) {
@@ -876,7 +892,7 @@ img {
   }
 
   #about p {
-    text-align: left
+    text-align: justify;
   }
 }
 
