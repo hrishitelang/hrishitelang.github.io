@@ -13,7 +13,7 @@
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 15px;
-
+  margin-right: 0;
 }
 
 p{
@@ -327,7 +327,6 @@ img {
   background-attachment: fixed;
   padding: 15px;
   overflow: hidden;
-  width: 100vw
 }
 
 #lead h5 {
