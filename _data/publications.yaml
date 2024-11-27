@@ -1,0 +1,14 @@
+papers:
+
+  - title: "Embedding Societal Values into Social Media Algorithms"
+    authors: "Michael Bernstein, Angèle Christin, Jeffrey Hancock, Tatsunori Hashimoto, Chenyan Jia, Michelle S. Lam, Nicole Meister, Nathaniel Persily, Tiziano Piccardi, <b>Martin Saveski</b>, Jeanne Tsai, Johan Ugander, Chunchen Xu"
+    venue: "JOTS'23: Journal of Online Trust and Safety. 2023."
+    paper_pdf: "/assets/publications/2023_embedding_societal_values/paper.pdf"
+    selected: y
+
+  - title: "Counterfactual Evaluation of Peer-Review Assignment Policies"
+    authors: "<b>Martin Saveski</b>, Steven Jecmen, Nihar B. Shah, Johan Ugander"
+    venue: "NeurIPS'23: Advances in Neural Information Processing Systems (Spotlight). 2023."
+    paper_pdf: "/assets/publications/2023_peer_review/paper.pdf"
+    code: "https://github.com/msaveski/counterfactual-peer-review"
+    selected: y
