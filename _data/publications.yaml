@@ -1,14 +1,15 @@
 papers:
 
-  - title: "Embedding Societal Values into Social Media Algorithms"
-    authors: "Michael Bernstein, Angèle Christin, Jeffrey Hancock, Tatsunori Hashimoto, Chenyan Jia, Michelle S. Lam, Nicole Meister, Nathaniel Persily, Tiziano Piccardi, <b>Martin Saveski</b>, Jeanne Tsai, Johan Ugander, Chunchen Xu"
-    venue: "JOTS'23: Journal of Online Trust and Safety. 2023."
-    paper_pdf: "/assets/publications/2023_embedding_societal_values/paper.pdf"
+  - title: "Effective Performance of Bins Approach for Classification of Malaria Parasite using Machine Learning"
+    authors: "<b>Hrishikesh Telang</b>, Kavita Sonawane"
+    venue: "2020 IEEE 5th International Conference on Computing Communication and Automation (ICCCA)"
+    paper_pdf: "/assets/publications/2020/paper.pdf"
     selected: y
 
-  - title: "Counterfactual Evaluation of Peer-Review Assignment Policies"
-    authors: "<b>Martin Saveski</b>, Steven Jecmen, Nihar B. Shah, Johan Ugander"
-    venue: "NeurIPS'23: Advances in Neural Information Processing Systems (Spotlight). 2023."
-    paper_pdf: "/assets/publications/2023_peer_review/paper.pdf"
-    code: "https://github.com/msaveski/counterfactual-peer-review"
+  - title: "COVID-19 and Malaria Parasite Detection and Classification by Bins Approach with Statistical Moments Using Machine Learning
+Authors"
+    authors: "<b>Hrishikesh Telang</b>, Kavita Sonawane"
+    venue: "I.J. Image, Graphics and Signal Processing, 2023"
+    paper_pdf: "/assets/publications/2023/paper.pdf"
+    code: 
     selected: y
