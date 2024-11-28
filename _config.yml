@@ -1,11 +1,7 @@
 source:      .
 destination: ./_site
 includes:    ./_includes
-<<<<<<< HEAD
 baseurl: ""
-=======
-baseurl: 
->>>>>>> 19e6ce614e51a7e853e09d14b45582e670d5bf65
 
 collections:
   projects:
