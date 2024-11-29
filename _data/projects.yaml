@@ -8,7 +8,7 @@ projects:
   - title: "AWS ETL Pipeline Manager for YouTube User Data Analysis"
     subtitle: "Scalable Data Pipeline for YouTube Insights and Advertising Success"
     thumbnail: "assets/projects/2016_human-atlas/thumbnail.png"
-    url: "projects/2016_human-atlas.html"
+    url: "projects/2022_aws_pipeline.html"
     selected: y
 
   - title: "Responsive Communities"
