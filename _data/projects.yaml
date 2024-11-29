@@ -17,10 +17,10 @@ projects:
     url: "projects/2024_calorie_advisor.html"
     selected: y
 
-  - title: "Cold-Start Recommendations"
-    subtitle: "Learning Local Collective Embeddings"
+  - title: "ATS for Resumes using Google Gemini Pro"
+    subtitle: "An LLM App for Resumes"
     thumbnail: "assets/projects/2014_item-cold-start/thumbnail.jpg"
-    url: "projects/2014_item-cold-start.html"
+    url: "projects/2024_ats_resume.html"
     selected: n
 
   - title: "Semi-supervised Learning"
