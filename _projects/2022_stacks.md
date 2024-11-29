@@ -3,7 +3,7 @@ layout: project
 title: STACKS - Social Media Tracker, Analyzer, & Collector Toolkit at Syracuse (v2.0)
 subtitle: "A social media research toolkit for Twitter/X"
 ---
-STACKS (v 2.0) is the updated version of the previous [STACKS interface](https://github.com/bitslabsyr/stack). As of April 2021, STACKS v2.0 has been leveraged with its latest Python v3.9, along with its updated Mongo and PyMongo dependencies. The social media research toolkit was originally designed to collect, process, and store data from online social networks, majorly from social media APIs such as Twitter and Facebook. The interface is an ongoing project via the Syracuse University iSchool, and the following repository supports the Twitter search and pagination API. Collecting from the Facebook search and pagination API is under development.
+STACKS (v 2.0) is the updated version of the previous [STACKS interface](https://github.com/bitslabsyr/stack). As of April 2021, STACKS v2.0 has been leveraged with its latest Python v3.9, along with its updated Mongo and PyMongo dependencies. The social media research toolkit was originally designed to collect, process, and store data from online social networks, majorly from social media APIs such as Twitter and Facebook. The interface is an ongoing project via the Syracuse University iSchool, and the following repository supports the Twitter search and pagination API. Collecting from the Facebook search and pagination API is under development. The link to the code can be [found here](https://github.com/bitslabsyr/stack2)
 
 **_This documentation assumes the following:_**
 * You know how to use Ubuntu 20.04.

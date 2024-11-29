@@ -5,8 +5,8 @@ projects:
     url: "projects/2022_stacks.html"
     selected: y
 
-  - title: "Human Atlas"
-    subtitle: "Tool for Mapping Social Networks"
+  - title: "AWS ETL Pipeline Manager for YouTube User Data Analysis"
+    subtitle: "Scalable Data Pipeline for YouTube Insights and Advertising Success"
     thumbnail: "assets/projects/2016_human-atlas/thumbnail.png"
     url: "projects/2016_human-atlas.html"
     selected: y
