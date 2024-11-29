@@ -13,7 +13,7 @@ projects:
 
   - title: "Calorie Advisor App"
     subtitle: "An app to track calories through photos"
-    thumbnail: "assets/projects/2015_jun/thumbnail.png"
+    thumbnail: "assets/projects/2024_calorie_advisor/thumbnail.png"
     url: "projects/2024_calorie_advisor.html"
     selected: y
 
