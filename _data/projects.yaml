@@ -11,10 +11,10 @@ projects:
     url: "projects/2022_aws_pipeline.html"
     selected: y
 
-  - title: "Responsive Communities"
-    subtitle: "Pilot project in Jun, Spain"
+  - title: "Calorie Advisor App"
+    subtitle: "An app to track calories through photos"
     thumbnail: "assets/projects/2015_jun/thumbnail.png"
-    url: "projects/2015_jun.html"
+    url: "projects/2024_calorie_advisor.html"
     selected: y
 
   - title: "Cold-Start Recommendations"
