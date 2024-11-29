@@ -1,8 +1,8 @@
 projects:
   - title: "STACKS 2.0"
-    subtitle: "Randomizing Over Randomized Experiments"
+    subtitle: "A social media research toolkit for Twitter/X"
     thumbnail: "assets/projects/2016_network-ab/thumbnail.jpg"
-    url: "projects/2016_network-ab-testing.html"
+    url: "projects/2022_stacks.html"
     selected: y
 
   - title: "Human Atlas"
