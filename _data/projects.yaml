@@ -17,6 +17,12 @@ projects:
     url: "projects/2024_calorie_advisor.html"
     selected: y
 
+  - title: "Text-to-SQL LLM Application Using Google Gemini Pro"
+    subtitle: "Analyzing Financial Tweets"
+    thumbnail: "assets/projects/2011_twitter-sentiment-analysis/thumbnail.png"
+    url: "projects/2011_twitter-sentiment-analysis.html"
+    selected: y
+
   - title: "ATS for Resumes using Google Gemini Pro"
     subtitle: "An LLM App for Resumes"
     thumbnail: "assets/projects/2014_item-cold-start/thumbnail.jpg"
@@ -28,12 +34,6 @@ projects:
     thumbnail: "assets/projects/2013_iterative-hybrid-algorithm/thumbnail.jpg"
     url: "projects/2013_iterative-hybrid-algorithm.html"
     selected: n
-
-  - title: "Text-to-SQL LLM Application Using Google Gemini Pro"
-    subtitle: "Analyzing Financial Tweets"
-    thumbnail: "assets/projects/2011_twitter-sentiment-analysis/thumbnail.png"
-    url: "projects/2011_twitter-sentiment-analysis.html"
-    selected: y
 
   - title: "Chat with Multiple PDFs Using Google Gemini and LangChain"
     subtitle: "Automatic Wordnet Construction using Language Models"
