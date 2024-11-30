@@ -20,35 +20,23 @@ projects:
   - title: "Text-to-SQL LLM Application Using Google Gemini Pro"
     subtitle: "Analyzing Financial Tweets"
     thumbnail: "assets/projects/2011_twitter-sentiment-analysis/thumbnail.png"
-    url: "projects/2011_twitter-sentiment-analysis.html"
+    url: "projects/2024_sql_llm.html"
     selected: y
 
   - title: "ATS for Resumes using Google Gemini Pro"
     subtitle: "An LLM App for Resumes"
     thumbnail: "assets/projects/2014_item-cold-start/thumbnail.jpg"
     url: "projects/2024_ats_resume.html"
-    selected: n
+    selected: y
 
   - title: "Job Salary Prediction System"
     subtitle: "Iterative Hybrid Algorithm"
     thumbnail: "assets/projects/2013_iterative-hybrid-algorithm/thumbnail.jpg"
-    url: "projects/2013_iterative-hybrid-algorithm.html"
+    url: "projects/2022_job_salary_prediction.html"
     selected: n
 
   - title: "Chat with Multiple PDFs Using Google Gemini and LangChain"
-    subtitle: "Automatic Wordnet Construction using Language Models"
+    subtitle: "An App to ask questions related to PDF content"
     thumbnail: "assets/projects/2010_wordnet-construction/thumbnail.jpg"
-    url: "projects/2010_wordnet-contruction.html"
-    selected: n
-
-  - title: "Fingerprint Verification"
-    subtitle: "Image processing class project"
-    thumbnail: "assets/projects/2010_fingerprint-verification/thumbnail.png"
-    url: "projects/2010_fingerprint-verification.html"
-    selected: n
-
-  - title: "Connect Four AI Agent"
-    subtitle: "Iterative deepening and alpha-beta pruning"
-    thumbnail: "assets/projects/2009_connect-four/thumbnail.png"
-    url: "projects/2009_connect-four.html"
+    url: "projects/2024_pdf_langchain.html"
     selected: n
